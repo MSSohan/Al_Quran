@@ -44,6 +44,7 @@ Want to run in your local development machine?
 
 ```
 git clone https://github.com/MSSohan/Al_Quran.git
+nodejs install
 yarn install
 yarn start
 ```
