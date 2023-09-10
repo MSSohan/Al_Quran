@@ -3,15 +3,15 @@
     <h2 align="center"><a href="https://holyalquran.netlify.app/">Al Quran</a></h2>
     Al Quran is the holy book of Islam. <br>Muslims believe that the Quran was revealed by Allah (SWT) to the final prophet & messenger, Muhammad Ibn Abdullah (SAW), through the archangel Zibrail (AS). Incrementally over a period of some 23 years, in the beginning month of Ramadan.<br><br>
     
-  <img src="https://img.shields.io/github/forks/mrhrifat/al-quran?style=for-the-badge">
+  <img src="https://img.shields.io/github/forks/MSSohan/Al_Quran?style=for-the-badge">
 
-  <img src="https://img.shields.io/github/stars/mrhrifat/al-quran?style=for-the-badge">
+  <img src="https://img.shields.io/github/stars/MSSohan/Al_Quran?style=for-the-badge">
 
-  <img src="https://img.shields.io/github/issues/mrhrifat/al-quran?style=for-the-badge">
+  <img src="https://img.shields.io/github/issues/MSSohan/Al_Quran?style=for-the-badge">
 
-  <img src="https://img.shields.io/github/issues-pr/mrhrifat/al-quran?style=for-the-badge">
+  <img src="https://img.shields.io/github/issues-pr/MSSohan/Al_Quran?style=for-the-badge">
 
-  <img src="https://img.shields.io/github/license/mrhrifat/al-quran?style=for-the-badge">
+  <img src="https://img.shields.io/github/license/MSSohan/Al_Quran?style=for-the-badge">
 </div>
 
 ## Motive
