@@ -50,13 +50,6 @@ yarn start
 
 ## Support
 
-👍🏻 If you're using this project & happy with it or you appreciate what I do and wish to support my work, you can consider by
-
-<div align='center'>
-
-[![](https://img.shields.io/badge/Ko_fi-FF5E5B?style=for-the-badge&logo=Ko-fi&logoColor=white "Support To Buy Ko-fi")](https://ko-fi.com/mrhrifat) [![](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black "Buy Me A Coffee")](https://buymeacoffee.com/mrhrifat) [![](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=Patreon&logoColor=white "Become a Patreon")](https://patreon.com/mrhrifat)
-
-</div>
 ⭐️ Starring & Sharing the project is also appreciated. Thanks! ❤️
 
 [![GitHub Repo stars](https://img.shields.io/badge/share%20on-reddit-red?logo=reddit)](https://reddit.com/submit?url=https://holyalquran.netlify.app&title=Al%20Quran%20is%20a%20Sadaqah%20Jariyah.%20I%20hope%20to%20make%20it%20easy%20for%20everyone%20to%20read,%20study%20&%20learn%20Al%20Quran.)
