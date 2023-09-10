@@ -3,8 +3,8 @@
 * Description:
 * Filename: Root.jsx
 * Path: /src/Root.jsx
-* Author: Mrh Rifat (Programmer)
-* Date: Apr 30, 2023
+* Developer: Md Saifuzzaman Sohan(Programmer and Developer)
+* Date: Sep 10, 2023
 *
 */
 
